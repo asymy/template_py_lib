@@ -27,6 +27,7 @@ bin/
 include/
 share/
 local/
+.coverage
 
 # IDE files
 .vscode/
