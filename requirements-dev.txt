@@ -1,6 +1,8 @@
+ipython
 wheel
 black
-mypy
 flake8
+tox
 pytest
-ipython
+pytest-cov
+mypy
